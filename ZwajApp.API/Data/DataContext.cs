@@ -11,7 +11,7 @@ namespace ZwajApp.API.Data
         }
 
 
-
+        public DbSet<PaymentDetail> PaymentDetails { get; set; }
         public DbSet<Value> Values { get; set; }
         public DbSet<User> Users { get; set; }
         

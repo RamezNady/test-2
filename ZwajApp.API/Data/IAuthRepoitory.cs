@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 using ZwajApp.API.Mobels;
-
+ 
 namespace ZwajApp.API.Data
 {
     public interface IAuthRepoitory
